@@ -2,7 +2,7 @@ import './style.css'
 import { setupInput } from './input.js'
 document.querySelector('#app').innerHTML = `
   <div>
-    <h1>Woo Vite ladida</h1>
+    <h1>Vite ladida</h1>
     <p class="read-the-docs">
       Markdown to HTML converter
     </p>
